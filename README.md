@@ -80,7 +80,6 @@ motto: "wibecode only"
 | :--- | :--- | :--- |
 | ❄️ **[FROST-CLI](https://github.com/fffwwwooo/FROST-CLI)** | Автономный AI-агент и CLI клиент с глубоким мышлением, доступом к ПК и вкладками чатов. | `Node.js` `AI` |
 | 📡 **[ESP-HACK-T-Display-S3](https://github.com/fffwwwooo/ESP-HACK-T-Display-S3)** | Порт ESP-HACK v1.3 на LilyGO T-Display-S3 (ESP32-S3R8, ST7789 320x170, 2 кнопки). | `C++` `ESP32` |
-| 🎮 **[tg-game](https://github.com/fffwwwooo/tg-game)** | Игровой Telegram Mini-App / интерактивный веб-модуль. | `HTML/JS` |
 
 ---
 
