@@ -34,8 +34,7 @@ focus:
   - Autonomous AI agents & CLI development (FROST CLI)
   - Embedded systems & ESP32 firmware development (ESP-HACK)
   - Low-level experimentation & tool design
-style: Minimalist • Cyberpunk Dark • Precision
-motto: "wibecode only"
+style: Minimalist • Precision
 ```
 
 ---
@@ -73,5 +72,5 @@ motto: "wibecode only"
 ---
 
 <div align="center">
-  <sub>crafted with precision • <b>FROST</b> • 2026</sub>
+  <sub><b>FROST</b> • 2026</sub>
 </div>
