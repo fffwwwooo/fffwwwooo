@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-╔═[ FROST KERNEL v2.0.0 ]════════════════════════════════════════[ AI CORE: ONLINE ]═╗
-║  ██████╗   ██████╗   ██████╗   ███████╗  ████████╗        [●] OS: Win32 x64 ║
-║  ██╔═══╝   ██╔══██╗ ██╔═══██╗  ██╔════╝  ╚══██╔══╝    [●] Access: Full Root ║
-║  █████╗    ██████╔╝ ██║   ██║  ███████╗     ██║      [●] Engine: Autonomous ║
-║  ██╔══╝    ██╔══██╗ ██║   ██║  ╚════██║     ██║          [●] DSH Web: :3080 ║
-║  ██║       ██║  ██║ ╚██████╔╝  ███████║     ██║     [●] Control: Single Win ║
-║  ╚═╝       ╚═╝  ╚═╝  ╚═════╝   ╚══════╝     ╚═╝           [●] State: Active ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔═[ tokify. v2.0.0 ]═══════════════════════════════════════════════[ AI CORE: ONLINE ]═╗
+║  ████████╗ ██████╗ ██╗  ██╗██╗███████╗██╗   ██╗        [●] OS: Win32 x64             ║
+║  ╚══██╔══╝██╔═══██╗██║ ██╔╝██║██╔════╝╚██╗ ██╔╝        [●] Access: Full Root         ║
+║     ██║   ██║   ██║█████╔╝ ██║█████╗   ╚████╔╝         [●] Engine: Autonomous        ║
+║     ██║   ██║   ██║██╔═██╗ ██║██╔══╝    ╚██╔╝          [●] DSH Web: :3080            ║
+║     ██║   ╚██████╔╝██║  ██╗██║██║        ██║     ██╗   [●] Control: Single Win       ║
+║     ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝     ╚═╝   [●] State: Active             ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-# <samp>F R O S T</samp>
+# <samp>t o k i f y .</samp>
 
 <p align="center">
   <code>autonomous systems</code> • <code>embedded & reverse engineering</code> • <code>vibecoding</code>
@@ -30,10 +30,10 @@
 ### ⚡ <samp>ABOUT ME</samp>
 
 ```yaml
-user: fffwwwooo (FROST)
+user: fffwwwooo
 role: Systems & AI Engineer / Vibecoder
 focus:
-  - Autonomous AI agents & CLI development (FROST CLI)
+  - Autonomous AI agents & CLI development (tokify.)
   - Embedded systems & ESP32 firmware development (ESP-HACK)
   - Low-level experimentation & tool design
 style: Minimalist • Cyberpunk Dark • Precision
@@ -78,7 +78,7 @@ motto: "wibecode only"
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| ❄️ **[FROST-CLI](https://github.com/fffwwwooo/FROST-CLI)** | Автономный AI-агент и CLI клиент с глубоким мышлением, доступом к ПК и вкладками чатов. | `Node.js` `AI` |
+| ⚡ **[tokify.](https://github.com/fffwwwooo/FROST-CLI)** | Автономный AI-агент и CLI клиент с глубоким мышлением, доступом к ПК и вкладками чатов. | `Node.js` `AI` |
 | 📡 **[ESP-HACK-T-Display-S3](https://github.com/fffwwwooo/ESP-HACK-T-Display-S3)** | Порт ESP-HACK v1.3 на LilyGO T-Display-S3 (ESP32-S3R8, ST7789 320x170, 2 кнопки). | `C++` `ESP32` |
 | 🎮 **[tg-game](https://github.com/fffwwwooo/tg-game)** | Игровой Telegram Mini-App / интерактивный веб-модуль. | `HTML/JS` |
 
@@ -100,5 +100,5 @@ motto: "wibecode only"
 ---
 
 <div align="center">
-  <sub>crafted with precision • <b>FROST</b> • 2026</sub>
+  <sub>crafted with precision • <b>tokify.</b> • 2026</sub>
 </div>
