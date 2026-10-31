@@ -9,7 +9,6 @@
 ╚═╝       ╚═╝  ╚═╝  ╚═════╝   ╚══════╝     ╚═╝   
 ```
 
-# <samp>F R O S T</samp>
 
 <p align="center">
   <code>autonomous systems</code> • <code>embedded & reverse engineering</code> • <code>vibecoding</code>
