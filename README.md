@@ -1,17 +1,14 @@
 <div align="center">
 
 ```
-╔═[ tokify. v2.0.0 ]═══════════════════════════════════════════════[ AI CORE: ONLINE ]═╗
-║  ████████╗ ██████╗ ██╗  ██╗██╗███████╗██╗   ██╗        [●] OS: Win32 x64             ║
-║  ╚══██╔══╝██╔═══██╗██║ ██╔╝██║██╔════╝╚██╗ ██╔╝        [●] Access: Full Root         ║
-║     ██║   ██║   ██║█████╔╝ ██║█████╗   ╚████╔╝         [●] Engine: Autonomous        ║
-║     ██║   ██║   ██║██╔═██╗ ██║██╔══╝    ╚██╔╝          [●] DSH Web: :3080            ║
-║     ██║   ╚██████╔╝██║  ██╗██║██║        ██║     ██╗   [●] Control: Single Win       ║
-║     ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝     ╚═╝   [●] State: Active             ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+██████╗   ██████╗   ██████╗   ███████╗  ████████╗
+██╔═══╝   ██╔══██╗ ██╔═══██╗  ██╔════╝  ╚══██╔══╝
+█████╗    ██████╔╝ ██║   ██║  ███████╗     ██║   
+██╔══╝    ██╔══██╗ ██║   ██║  ╚════██║     ██║   
+██║       ██║  ██║ ╚██████╔╝  ███████║     ██║   
+╚═╝       ╚═╝  ╚═╝  ╚═════╝   ╚══════╝     ╚═╝   
 ```
 
-# <samp>t o k i f y .</samp>
 
 <p align="center">
   <code>autonomous systems</code> • <code>embedded & reverse engineering</code> • <code>vibecoding</code>
@@ -20,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fffwwwooo&color=eb2834&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-10b981?style=flat-square&labelColor=0d1117" alt="Status" />
-  <img src="https://img.shields.io/badge/DEV-FULL--ACCESS-eb2834?style=flat-square&labelColor=0d1117" alt="Access" />
+
 </p>
 
 ---
@@ -30,14 +27,13 @@
 ### ⚡ <samp>ABOUT ME</samp>
 
 ```yaml
-user: fffwwwooo
+user: fffwwwooo (FROST)
 role: Systems & AI Engineer / Vibecoder
 focus:
-  - Autonomous AI agents & CLI development (tokify.)
+  - Autonomous AI agents & CLI development (FROST CLI)
   - Embedded systems & ESP32 firmware development (ESP-HACK)
   - Low-level experimentation & tool design
-style: Minimalist • Cyberpunk Dark • Precision
-motto: "wibecode only"
+style: Minimalist • Precision
 ```
 
 ---
@@ -74,31 +70,6 @@ motto: "wibecode only"
 
 ---
 
-### 📌 <samp>FEATURED PROJECTS</samp>
-
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
-| ⚡ **[tokify.](https://github.com/fffwwwoo/FROST-CLI)** | Автономный AI-агент и CLI клиент с глубоким мышлением, доступом к ПК и вкладками чатов. | `Node.js` `AI` |
-| 📡 **[ESP-HACK-T-Display-S3](https://github.com/fffwwwoo/ESP-HACK-T-Display-S3)** | Порт ESP-HACK v1.3 на LilyGO T-Display-S3 (ESP32-S3R8, ST7789 320x170, 2 кнопки). | `C++` `ESP32` |
-| 🎮 **[tg-game](https://github.com/fffwwwoo/tg-game)** | Игровой Telegram Mini-App / интерактивный веб-модуль. | `HTML/JS` |
-
----
-
-### 📊 <samp>TELEMETRY & ACTIVITY</samp>
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fffwwwooo&show_icons=true&theme=transparent&title_color=eb2834&text_color=c9d1d9&icon_color=eb2834&border_color=30363d&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffwwwooo&layout=compact&theme=transparent&title_color=eb2834&text_color=c9d1d9&border_color=30363d&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fffwwwooo&theme=transparent&background=00000000&stroke=30363d&border=30363d&ring=eb2834&fire=eb2834&currStreakNum=eb2834&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" width="97%" />
-
-</div>
-
----
-
-<div align="center">
-  <sub>crafted with precision • <b>tokify.</b> • 2026</sub>
+  <sub><b>FROST</b> • 2026</sub>
 </div>
