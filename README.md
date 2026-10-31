@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fffwwwooo&color=eb2834&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/STATUS-ONLINE-10b981?style=flat-square&labelColor=0d1117" alt="Status" />
-  <img src="https://img.shields.io/badge/DEV-FULL--ACCESS-eb2834?style=flat-square&labelColor=0d1117" alt="Access" />
+
 </p>
 
 ---
